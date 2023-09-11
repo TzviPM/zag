@@ -1,5 +1,22 @@
 # @zag-js/number-input
 
+## 0.19.2
+
+### Patch Changes
+
+- [`942db6ca`](https://github.com/chakra-ui/zag/commit/942db6caf9f699d6af56929c835b10ae80cfbc85) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Remove toggle machine
+
+- Updated dependencies [[`942db6ca`](https://github.com/chakra-ui/zag/commit/942db6caf9f699d6af56929c835b10ae80cfbc85)]:
+  - @zag-js/anatomy@0.19.2
+  - @zag-js/core@0.19.2
+  - @zag-js/types@0.19.2
+  - @zag-js/utils@0.19.2
+  - @zag-js/dom-event@0.19.2
+  - @zag-js/dom-query@0.19.2
+  - @zag-js/mutation-observer@0.19.2
+  - @zag-js/number-utils@0.19.2
+
 ## 0.19.1
 
 ### Patch Changes
